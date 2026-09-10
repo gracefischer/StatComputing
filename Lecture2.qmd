@@ -21,3 +21,16 @@ usethis::use_github()
 ## Create an index.Rmd (or index.qmd) file
 ## Knit / Render the file to create index.html
 ## Make a commit and push all files to GitHub
+
+{
+     "files.associations": {
+        "renv.lock": "json"
+   },
+     "positron.assistant.gitIntegration.enable": true,
+     "positron.assistant.showTokenUsage.enable": true,
+     "positron.assistant.toolDetails.enable": true,
+     "[r]": {
+         "editor.formatOnSave": true,
+         "editor.defaultFormatter": "Posit.air-vscode"
+     }
+ }
