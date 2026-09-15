@@ -1,0 +1,3 @@
+[submodule "StatComputingNotes"]
+    path = StatComputingNotes
+    url = https://github.com/yourusername/StatComputingNotes.git
