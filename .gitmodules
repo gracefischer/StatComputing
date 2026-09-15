@@ -1,3 +1,6 @@
 [submodule "StatComputingNotes"]
 	path = StatComputingNotes
 	url = https://github.com/gracefischer/StatComputingNotes.git
+[submodule "Project_1_StatComputing"]
+	path = Project_1_StatComputing
+	url = https://github.com/gracefischer/Project_1_StatComputing.git
