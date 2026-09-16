@@ -1,5 +1,5 @@
 ---
-title: "Lecture2"
+title: "Set Up Notes from Lecture 2"
 format: html
 ---
 
