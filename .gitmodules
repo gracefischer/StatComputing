@@ -4,3 +4,6 @@
 [submodule "Project_1_StatComputing"]
 	path = Project_1_StatComputing
 	url = https://github.com/gracefischer/Project_1_StatComputing.git
+[submodule "Project_2_Stat_Computing"]
+	path = Project_2_Stat_Computing
+	url = https://github.com/gracefischer/Project_2_Stat_Computing.git
