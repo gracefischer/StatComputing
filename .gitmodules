@@ -7,6 +7,3 @@
 [submodule "Project_2_Stat_Computing"]
 	path = Project_2_Stat_Computing
 	url = https://github.com/gracefischer/Project_2_Stat_Computing.git
-[submodule "path/to/Project_3_StatComputing"]
-	path = path/to/Project_3_StatComputing
-	url = https://github.com/gracefischer/Project_3_StatComputing
