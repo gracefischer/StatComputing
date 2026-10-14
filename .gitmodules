@@ -1,9 +1,12 @@
-[submodule "StatComputingNotes"]
-    path = StatComputingNotes
-    url = https://github.com/gracefischer/StatComputingNotes.git
-[submodule "Project_1_StatComputing"]
-	path = Project_1_StatComputing
+[submodule "projects/Project_1_StatComputing"]
+	path = projects/Project_1_StatComputing
 	url = https://github.com/gracefischer/Project_1_StatComputing.git
-[submodule "Project_2_Stat_Computing"]
-	path = Project_2_Stat_Computing
+[submodule "projects/Project_3_StatComputing"]
+	path = projects/Project_3_StatComputing
+	url = https://github.com/gracefischer/Project_3_StatComputing.git
+[submodule "projects/Project_2_Stat_Computing"]
+	path = projects/Project_2_Stat_Computing
 	url = https://github.com/gracefischer/Project_2_Stat_Computing.git
+[submodule "notes/StatComputingNotes"]
+	path = notes/StatComputingNotes
+	url = https://github.com/gracefischer/StatComputingNotes.git
